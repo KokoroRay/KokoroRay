@@ -52,7 +52,7 @@
   <a href="https://www.facebook.com/kokoro.ray.639/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="mailto:[email protected]" target="_blank">
+  <a href="mailto:tam.nguyen.ia.cm@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>

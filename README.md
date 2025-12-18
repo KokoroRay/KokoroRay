@@ -33,14 +33,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KokoroRay&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="150">
-  </a>
-  <a href="https://github.com/KokoroRay/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KokoroRay&layout=compact&theme=dark" alt="Top Languages" height="150">
-  </a>
-</div>
+<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=KokoroRay&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" />
+
+[![Top Languagues](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KokoroRay&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000)]()
 
 <br>
 <a href="#" title="Most Used Languages">

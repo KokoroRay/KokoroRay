@@ -37,11 +37,8 @@
 
 [![Top Languagues](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KokoroRay&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000)]()
 
-<br>
-<a href="#" title="Most Used Languages">
-   <img  align="center" width="900" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KokoroRay&theme=radical" />
-</a>
-<br>
+
+<img align="center" width="900" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KokoroRay&theme=tokyonight"/>
 
 ---
 

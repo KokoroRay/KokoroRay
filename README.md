@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Tam Nguyen (Ray) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h1>
-  <p>3rd Year Software Engineering Student @ FPT Cần thơ | Web Development Enthusiast</p>
+  <p>Final-year Software Engineering student at FPT Can Tho | specializing in Web, DevOps, and Game development.</p>
 </div>
 
 ---

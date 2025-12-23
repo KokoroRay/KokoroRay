@@ -55,11 +55,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
-
----
-
-### 💼 About Me
-
-- I'm a 3rd-year Software Engineering student at FPT Cần thơ, specializing in Web Development.
-- Passionate about building scalable web applications and continuously learning new technologies.
-- Actively exploring the open-source community and looking for collaborative projects.

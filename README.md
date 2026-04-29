@@ -8,7 +8,7 @@
       <p>Final-year Software Engineering student focused on Web, DevOps, and Game Development.</p>
       <p><em>"Powered by passion, funded by your job offers."</em></p>
       <p>
-        <a href="www.linkedin.com/in/tam-nguyen-se-0503se" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-A084CA?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/tam-nguyen-se-0503se" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-A084CA?style=flat-square&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:tamnguyen.engineer.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-A084CA?style=flat-square&logo=gmail&logoColor=white" /></a>
       </p>
     </td>

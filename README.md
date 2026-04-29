@@ -6,7 +6,7 @@
     <td valign="top">
       <h1 style="color: #A084CA;">Tam Nguyen (Ray)</h1>
       <p>Final-year Software Engineering student focused on Web, DevOps, and Game Development.</p>
-      <p><em>"Building systems with precision, and presenting them with a little atmosphere."</em></p>
+      <p><em>"Powered by passion, funded by your job offers."</em></p>
       <p>
         <a href="https://www.linkedin.com/in/tam-nguyen-68aa672a9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-A084CA?style=flat-square&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:tam.nguyen.ia.cm@gmail.com"><img src="https://img.shields.io/badge/Gmail-A084CA?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -17,7 +17,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A084CA&height=60&section=header" width="100%" />
 
-## 🔮 Magic Tools (Tech Stack)
+## 🛠️ Main Tech Stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" title="Java" width="55" />
@@ -50,10 +50,10 @@
 
 ## 📊 Journey Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=KokoroRay&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&title_color=A084CA&text_color=a9b1d6&icon_color=A084CA" width="48%" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KokoroRay&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&title_color=A084CA&text_color=a9b1d6&layout=compact" width="40%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=KokoroRay&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KokoroRay&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&layout=compact" width="38%" />
+</div>
 
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KokoroRay&theme=tokyonight"/>

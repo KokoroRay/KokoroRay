@@ -49,6 +49,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=A084CA&height=2" width="100%" />
 
+## 🏆 Certifications
+
+[<img src="./aws-certified-developer-associate.png" width="120" alt="AWS Certified Developer – Associate"/>](https://www.credly.com/badges/b8414a7a-996b-425d-927e-3c6cb3251967/public_url)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A084CA&height=2" width="100%" />
+
 ## 📊 Journey Stats
 
 <div align="center">

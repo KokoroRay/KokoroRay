@@ -5,7 +5,7 @@
     </td>
     <td valign="top">
       <h1 style="color: #A084CA;">Tam Nguyen (Ray)</h1>
-      <p>Final-year Software Engineering student focused on Web, DevOps, and Game Development.</p>
+      <p>Final-year Software Engineering student focused on Web, DevOps, and Cloud Engineering</p>
       <p><em>"Powered by passion, funded by your job offers."</em></p>
       <p>
         <a href="https://www.linkedin.com/in/tam-nguyen-se-0503se" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-A084CA?style=flat-square&logo=linkedin&logoColor=white" /></a>
